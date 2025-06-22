@@ -1,6 +1,6 @@
 # Privacy Policy for Grow A Garden - Stock App
 
-**Last updated:** July 2025
+**Last updated:** December 2024
 
 ## Introduction
 
@@ -69,10 +69,12 @@ We and our third-party partners may use tracking technologies to:
 
 ## Data Security
 
-We implement appropriate security measures to protect your information:
-- Secure data transmission
-- Limited access to personal information
-- Regular security assessments
+We take reasonable steps to protect your information:
+- **HTTPS Communication**: Data is transmitted securely between the app and our servers
+- **Third-Party Security**: We rely on established third-party services (Google AdMob, Expo) that implement industry-standard security measures
+- **Limited Data Storage**: We only store the minimum data necessary for app functionality
+
+**Note**: While we implement reasonable security measures, no method of transmission over the internet or electronic storage is 100% secure. We cannot guarantee absolute security of your information.
 
 ## Data Retention
 
